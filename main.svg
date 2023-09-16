@@ -1,0 +1,33 @@
+<svg
+  height="200"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        body {
+          background-color: black;
+        }
+
+        p {
+          font-family: sans-serif;
+          color: #008000;
+          margin: 0;
+          writing-mode: vertical-rl;
+          text-orientation: upright;
+          animation: falling 6s infinite;
+          transform: translateY(-100%);
+        }
+
+        @keyframes falling {
+          100% {
+            transform: translateY(200%);
+          }
+        }
+      </style>
+      <div style="display: flex;justify-content: space-between;">
+        <p style="animation-delay: 2.37395s;">010011100</p><p style="animation-delay: 5.62617s;">0010111</p><p style="animation-delay: 5.83107s;">110001</p><p style="animation-delay: 4.97111s;">0010110</p><p style="animation-delay: 3.18592s;">001</p><p style="animation-delay: 6.86794s;">1100111000</p><p style="animation-delay: 0.42478s;">0100100011</p><p style="animation-delay: 0.537246s;">1</p><p style="animation-delay: 1.14304s;">0</p><p style="animation-delay: 6.34102s;">11</p><p style="animation-delay: 2.38654s;">01101</p><p style="animation-delay: 0.151451s;">01</p><p style="animation-delay: 1.56179s;">0111011100</p><p style="animation-delay: 5.64276s;">1</p><p style="animation-delay: 5.01871s;">000</p><p style="animation-delay: 6.677s;">011</p><p style="animation-delay: 2.13386s;">0</p><p style="animation-delay: 2.37468s;">11101011000</p><p style="animation-delay: 2.96883s;">010000010</p><p style="animation-delay: 0.527698s;">00</p><p style="animation-delay: 5.15919s;">0</p><p style="animation-delay: 1.64458s;">100110011</p><p style="animation-delay: 4.24154s;">0</p><p style="animation-delay: 0.205266s;">0100010001</p><p style="animation-delay: 4.26563s;">000</p><p style="animation-delay: 0.928363s;">1011</p><p style="animation-delay: 0.55943s;">1001000111</p><p style="animation-delay: 5.43404s;">01111110</p><p style="animation-delay: 4.77794s;">1111</p><p style="animation-delay: 0.132262s;">0000010</p><p style="animation-delay: 6.1322s;">0101</p><p style="animation-delay: 1.27295s;">10010</p><p style="animation-delay: 6.69352s;">001001111</p><p style="animation-delay: 0.780815s;">110</p><p style="animation-delay: 2.58927s;">1001101</p><p style="animation-delay: 6.03723s;">1</p><p style="animation-delay: 2.15023s;">10010</p><p style="animation-delay: 1.59177s;">000110110</p><p style="animation-delay: 0.228016s;">00100011101</p><p style="animation-delay: 6.29572s;">111100011</p><p style="animation-delay: 4.85338s;">000</p><p style="animation-delay: 4.87551s;">10101011</p><p style="animation-delay: 6.61035s;">110</p><p style="animation-delay: 1.81663s;">1100</p><p style="animation-delay: 5.4641s;">01101</p><p style="animation-delay: 4.93204s;">100010</p><p style="animation-delay: 0.831053s;">01</p><p style="animation-delay: 4.47698s;">01010</p><p style="animation-delay: 6.73042s;">0010011110</p><p style="animation-delay: 4.17345s;">11</p>      
+      </div>
+    </div>
+  </foreignObject>
+</svg>
